@@ -1,10 +1,10 @@
 # Ionic 3 Chat
 
-A chat application made using Ionic 3 and firebase.
+## Episode 6
 
-(Please note that this is a work in progress).
+### Adding Friends
 
-For individual parts of this entire app please check my other repos.
+The code for the sixth part of Ionic 3 chat app series. For further details - http://tphangout.com/?p=651
 
 Thanks.
 
